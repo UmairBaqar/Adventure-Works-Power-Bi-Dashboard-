@@ -1,4 +1,4 @@
-<h3>**📊 Adventure Works Sales Analysis Dashboard (Power BI)**
+<h3>**📊 Adventure Works Sales Analysis Dashboard (Power BI)**</h3>
 
 A comprehensive sales performance dashboard built to uncover product, customer, and regional insights using the Adventure Works demo dataset.
 
