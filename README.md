@@ -64,7 +64,20 @@ Ensured all visuals aligned with stakeholder questions and supported decision-ma
 
 **🖼️ Project Preview**
 
-![Dashboard Overview](assets/dashboard_overview.png)
+<h3>📷 Project Preview</h3>
+
+<table>
+  <tr>
+    <td><img src="U Jawaid Dashboard Screen 1.png" width="500"></td>
+    <td><img src="U Jawaid Dashboard Screen 2.png" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="U Jawaid Dashboard Screen 3.png" width="500"></td>
+    <td><img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="500"></td>
+  </tr>
+</table>
+
+
 
 
 🔗 How to Use This Project
