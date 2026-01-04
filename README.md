@@ -2,9 +2,11 @@
 
 A comprehensive sales performance dashboard built to uncover product, customer, and regional insights using the Adventure Works demo dataset.
 
+
 **🔍 Project Overview**
 This project analyzes sales performance for Adventure Works, a global manufacturing company. The goal was to create a decision-support dashboard that helps sales leaders understand revenue trends, customer behavior, product performance, and regional opportunities.
 The dashboard is designed using Power BI, following best practices in data modeling, DAX, and business analysis to ensure clarity, scalability, and actionable insights.
+
 
 
 **🎯 Business Problem**
@@ -14,6 +16,7 @@ Sales teams often struggle with:
 - Difficulty identifying high-value segments
 - Lack of trend analysis for forecasting and planning
 Adventure Works needed a unified, interactive dashboard that answers key business questions and supports strategic decision-making.
+
 
 
 **🧠 My Approach**
@@ -35,6 +38,7 @@ Identified core stakeholder questions around revenue, customer segments, product
 Ensured all visuals aligned with stakeholder questions and supported decision-making.
 
 
+
 **📈 Key Insights & Features**
 - Sales Trends: YOY and MOM performance tracking
 - Customer Insights:
@@ -50,6 +54,7 @@ Ensured all visuals aligned with stakeholder questions and supported decision-ma
 - Drill-through Pages:
 - Customer-level deep dives
 - Product-level performance details
+
 
 
 **🛠️ Tools & Technologies**
