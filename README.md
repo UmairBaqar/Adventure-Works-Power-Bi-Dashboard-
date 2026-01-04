@@ -1,12 +1,13 @@
-📊 Adventure Works Sales Analysis Dashboard (Power BI)
-A comprehensive sales performance dashboard built to uncover product, customer, and regional insights using the Adventure Works dataset.
+**📊 Adventure Works Sales Analysis Dashboard (Power BI)**
 
-🔍 Project Overview
+A comprehensive sales performance dashboard built to uncover product, customer, and regional insights using the Adventure Works demo dataset.
+
+**🔍 Project Overview**
 This project analyzes sales performance for Adventure Works, a global manufacturing company. The goal was to create a decision-support dashboard that helps sales leaders understand revenue trends, customer behavior, product performance, and regional opportunities.
 The dashboard is designed using Power BI, following best practices in data modeling, DAX, and business analysis to ensure clarity, scalability, and actionable insights.
 
 
-🎯 Business Problem
+**🎯 Business Problem**
 Sales teams often struggle with:
 - Fragmented reporting across regions and product categories
 - Limited visibility into customer purchasing behavior
@@ -15,26 +16,26 @@ Sales teams often struggle with:
 Adventure Works needed a unified, interactive dashboard that answers key business questions and supports strategic decision-making.
 
 
-🧠 My Approach
-I followed a structured BA + BI workflow:
-- Requirements Gathering:
+**🧠 My Approach**
+**Requirements Gathering:**
 Identified core stakeholder questions around revenue, customer segments, product performance, and regional trends.
-- Data Modeling:
+**Data Modeling:**
 - Designed a clean star schema
 - Created relationships between fact and dimension tables
 - Ensured model scalability and performance:
-- DAX Calculations:
+**DAX Calculations:**
 - Year-over-year and month-over-month metrics
 - Dynamic segmentation logic
 - Customer behavior measures (frequency, spend, retention)
-- Dashboard Design:
+**Dashboard Design:**
 - Built intuitive navigation
 - Used consistent color themes and KPI cards
 - Added drill-through pages for deeper analysis
-- Insight Validation
+**Insight Validation**
 Ensured all visuals aligned with stakeholder questions and supported decision-making.
 
-📈 Key Insights & Features
+
+**📈 Key Insights & Features**
 - Sales Trends: YOY and MOM performance tracking
 - Customer Insights:
 - High-value customer identification
@@ -50,17 +51,18 @@ Ensured all visuals aligned with stakeholder questions and supported decision-ma
 - Customer-level deep dives
 - Product-level performance details
 
-🛠️ Tools & Technologies
+
+**🛠️ Tools & Technologies**
 - Power BI Desktop
-- DAX (Data Analysis Expressions)
+- SQL
 - Power Query (ETL)
 - Data Modeling (Star Schema)
-- Adventure Works Dataset
+- DAX (Data Analysis Expressions)
 - Business Analysis Techniques
 - Data Visualization & Storytelling
 
 
-🖼️ Project Preview
+**🖼️ Project Preview**
 
 ![Dashboard Overview](assets/dashboard_overview.png)
 
