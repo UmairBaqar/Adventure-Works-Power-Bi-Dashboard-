@@ -70,7 +70,7 @@ Ensured all visuals aligned with stakeholder questions and supported decision-ma
     <td><img src="U Jawaid Dashboard Screen 2.png" width="500"></td>
   </tr>
   <tr>
-    <td><img src="U Jawaid Dashboard Screen 3.png" width="500"></td>
+    <td><img src="U Jawaid Dashboard Screen 5 SQL.png" width="500"></td>
     <td><img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="500"></td>
   </tr>
 </table>
