@@ -88,6 +88,10 @@ Ensured all visuals aligned with stakeholder questions and supported decision-ma
 - Open in Power BI Desktop
 - Explore the report pages, filters, and drill-throughs
 - Review the data model and DAX measures for learning purposes
-
 - Dynamic segmentation logic
 - Customer behavior measures (frequency, spend, retention)
+
+
+### Acknowledgments
+Special thanks to [Ali Ahmad] for their Power BI tutorial playlist, which helped shape parts of this project.  
+Playlist: [https://www.youtube.com/playlist?list=PLMfXakCUhXsEUtk8c0zWr4whamGxLhAu0]
